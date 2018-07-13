@@ -1,0 +1,14 @@
+{
+  "name": "scratch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cjmimagedatabase.js",
+  "scripts": {
+    "test": "./cjmimagedatabase.js"
+  },
+  "author": "Tran Nguyen",
+  "license": "ISC",
+  "dependencies": {
+    "box-node-sdk": "^1.19.0"
+  }
+}
