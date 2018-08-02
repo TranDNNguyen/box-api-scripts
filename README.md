@@ -1,5 +1,4 @@
-### Updated July 2018
-### Tran Nguyen
+### Updated July 2018 - Tran Nguyen
 
 ## Preliminaries
 Make sure you have npm and Node.js installed on your machine.
